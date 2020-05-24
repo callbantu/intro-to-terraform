@@ -56,3 +56,7 @@ resource "aws_security_group" "instance" {
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
+
+# -----
+# Test commit
+# -----
